@@ -14,7 +14,7 @@
       "label": "Europe PAL",
       "serial": "SCES_516.07",
       "target": "config/regions/pal/target.json",
-      "overlays": null,
+      "overlays": "config/regions/pal/overlays.json",
       "matching": false,
       "functional_port": "ports/pal-functional"
     }

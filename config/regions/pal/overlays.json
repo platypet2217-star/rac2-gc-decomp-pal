@@ -1,0 +1,114 @@
+{
+  "target": "SCES_516.07",
+  "verified_at": "2026-10-08T00:48:13.912168+00:00",
+  "levels": [
+    {
+      "level": "0_aranos_tutorial",
+      "sha256": "ae5aad700d76454019d08a09706cee7922813ebf7151abb4ed0e27ba823e8626"
+    },
+    {
+      "level": "10_hrugis_cloud",
+      "sha256": "665a16822499972248f920707c67343325a7e0373f3eb504be2080d7c9363321"
+    },
+    {
+      "level": "11_joba",
+      "sha256": "d047ba06308cee36c8d2af500c4b952bc43f3111ff677c0bdee0dd11e1933a0e"
+    },
+    {
+      "level": "12_todano",
+      "sha256": "9a1796839b296e4710d1fc90f0e118e40477f0c219154f651e461eade2cfe4b6"
+    },
+    {
+      "level": "13_boldan",
+      "sha256": "e30a0bcd44b492270e7bb9e32212ef505c34943be4adf663b31f19df3ed0afc4"
+    },
+    {
+      "level": "14_aranos_prison",
+      "sha256": "8ce71cf46b66d5e69cee592c0c30fddd33ba21b124054e1c8a7c126fee6f8fb1"
+    },
+    {
+      "level": "15_gorn",
+      "sha256": "2c5a90d4f8225878533a88668892e2de0088ac5ad3732fdb450d918a98342b48"
+    },
+    {
+      "level": "16_snivelak",
+      "sha256": "b7bd3ff822192a52cd14cb0c120a8bb96291b20c33a13eed088521430bacf627"
+    },
+    {
+      "level": "17_smolg",
+      "sha256": "ce117e7b3d06f8dc0c8d54e0d050f37c8e2b9559354480a8e13083bb47bf6fc1"
+    },
+    {
+      "level": "18_damosel",
+      "sha256": "84cf4bc11b3f198dfd346b54c86a8dd41a27fa64ca7a630dd641f000dbd1b144"
+    },
+    {
+      "level": "19_grelbin",
+      "sha256": "6f6a3a6678448d76256085939cfa0f06eacb1f6a5de454c2c6a5236dd6dd81fa"
+    },
+    {
+      "level": "1_oozla",
+      "sha256": "5f223751c9bbe3d334614d079eef6cf4c2499c834fcb118999a44f85f65ca49a"
+    },
+    {
+      "level": "20_yeedil",
+      "sha256": "ea09aec6d28977ecdc5b23fab088521745593031f3a67377a797b9cc2c1ebfb4"
+    },
+    {
+      "level": "22_dobbo_orbit",
+      "sha256": "0104ab87ec2771f68092e9c4b20ace5fe9eb80b10a7886f89e445331fd6fffe2"
+    },
+    {
+      "level": "23_damosel_orbit",
+      "sha256": "3e6f3e16386e723c6ac5abba88b9af66dbbbc755d501ab28eb66808282eca8b3"
+    },
+    {
+      "level": "24_ship_shack",
+      "sha256": "3cb366e3debab515da560ea4484f599378915983892467dccf89269aa3c3c328"
+    },
+    {
+      "level": "25_wupash_nebula",
+      "sha256": "6b1ba8fc9a861fba8a05b930c962f8230e194d0368a7d47978f409d8215e6594"
+    },
+    {
+      "level": "26_jamming_array",
+      "sha256": "f2ac9d654ed0918b7c820cee807e81702a9763f72322f62605593f31be40c5ed"
+    },
+    {
+      "level": "2_maktar_nebula",
+      "sha256": "34638077ce8a84b296b046197e2d2e751c2d1f4ba093cb1229cd4f0d31b88de5"
+    },
+    {
+      "level": "30_insomniac_museum",
+      "sha256": "e212bc3c00d9d6cbe2568860124651685c9670e42e3267c8f6618bd9b813290e"
+    },
+    {
+      "level": "3_endako",
+      "sha256": "94bb3393b2b33c37a785c7e596a92ece8c17d58b6346efe7835ff89cf3a1151b"
+    },
+    {
+      "level": "4_barlow",
+      "sha256": "4db236ddfec4d91b086a2f12198bd79c8f8490cbe0bd54bc84f2977bf1fe8cde"
+    },
+    {
+      "level": "5_feltzin_system",
+      "sha256": "05c1128af6375ac636289bc16894347a3469bc9c86ffe70359bcb764921123e0"
+    },
+    {
+      "level": "6_notak",
+      "sha256": "1f9e1f40ef1cbc356b91be665e8f545c04d3745f0089115c890f2a455ef18cb4"
+    },
+    {
+      "level": "7_siberius",
+      "sha256": "d235c028f9cca1a7238280d8c8a3db7c34907bd0386da6d4a6433ff2d6358243"
+    },
+    {
+      "level": "8_tabora",
+      "sha256": "3ed779a4e90ec026a25e785a4d47664904acacd7e3ec22b103a5cc5d574ca13d"
+    },
+    {
+      "level": "9_dobbo",
+      "sha256": "7d56d7c648da87d17bc80ec8902b1be73a65b57701dcbead519ccb552f7f45e8"
+    }
+  ]
+}
